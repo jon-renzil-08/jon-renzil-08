@@ -39,6 +39,6 @@ A dashboard application for invoice management, payment tracking, and customer d
 
 ## Contact
 
-Portfolio: https://revormasi-dev.vercel.app  
+
 LinkedIn: https://www.linkedin.com/in/johnirevormasiziliwu  
 Email: jrevormasi@gmail.com
