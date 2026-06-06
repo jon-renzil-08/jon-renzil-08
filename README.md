@@ -1,6 +1,6 @@
 # Hi, I'm Johni 👋
 
-I'm a Frontend Developer from Indonesia focused on building responsive and modern web applications.
+a web developer focused on building simple, modern, and reliable digital experiences for businesses and users.
 
 I work with technologies like Next.js, React.js, TypeScript, Tailwind CSS, Astro, Laravel, MySQL, and Supabase.
 
